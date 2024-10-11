@@ -1,0 +1,3 @@
+Uma jornada desafiadora, uma experiência transformadora. 
+Graças à formação oferecida pela Alura, mergulhei de cabeça no universo do React com Typescript. 
+Cada linha de código foi um desafio superado, cada conceito absorvido por uma conquista pessoal. 
